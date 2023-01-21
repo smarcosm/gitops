@@ -8,4 +8,4 @@ resources:
 images:
 - name: goserver
   newName: sebastiaomarcos/gitops
-  newTag: bf3eedbc3b5389909445913329cdc367ee8fdcbe
+  newTag: c0811e304c69897d9f93df5ec5b9cb2fd2160e81
