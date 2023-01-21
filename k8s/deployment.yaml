@@ -12,8 +12,7 @@ spec:
         app: goserver
     spec:
       containers:
-      - name: goserver
-        image: goserver
-        ports:
-          - containerPort: 8080
-        
+        - name: goserver
+          image: goserver
+          ports:
+            - containerPort: 8080
